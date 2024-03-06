@@ -20,7 +20,7 @@ conversation = [
 pregunta = """
             Necesito la siguiente información: Nombre de la persona que envía el correo, 
             Nombre de la persona que recibe el correo, Hora del envío, Subject, Listado de Tareas
-            Por último necesito que el formato de la respuesta sea un JSON.
+            Por último necesito que el formato de la respuesta sea un JSON..
             """
 conversation.append({"role": "user", "content": pregunta})
 
